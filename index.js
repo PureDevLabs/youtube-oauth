@@ -49,6 +49,14 @@ const confirmDevice = async () => {
         "\x1b[32m",
         response.token_type,
         response.access_token,
+        "\x1b[0m", "and expires in: ",
+		"\x1b[32m", response.expires_in, " seconds", "\x1b[0m"
+      );
+
+	  console.log(
+        "Your Refresh Token is: ",
+        "\x1b[32m",
+        response.refresh_token,
         "\x1b[0m"
       );
       clearInterval(refresh);
