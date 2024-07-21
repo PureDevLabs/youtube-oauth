@@ -1,4 +1,4 @@
-# youtube-oauth
+# YouTube oAuth
 
 ## Install Bun on your PC
 
