@@ -60,5 +60,10 @@ To run:
 bun run index.js
 ```
 
+> [!CAUTION]
+> Do ***NOT*** copy values with CTRL + C or you will cancel the script process.
+> 
+> Please copy the values by marking the Text and then make a rightlick on it.
+
 
 This project was created using `bun init` in bun v1.1.3. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
