@@ -2,22 +2,50 @@
 
 ## Install Bun on your PC
 
-on Windows open Powershell Terminal and excute this command to install Bun. This is only required one time.
+### on Windows
+  
+open Powershell Terminal
 
 ```bash
 powershell -c "irm bun.sh/install.ps1 | iex"
 ```
 
+### on MacOS or Linux
+
+Open Terminal
+
+```bash
+curl -fsSL https://bun.sh/install | bash
+```
+
+and excute this command to install Bun. This is only required one time.
+
 close the Terminal after that.
 
-Download the latest Release of youtube-oauth and unzip it.
+---
 
-open cmd in Windows and navigate to the extracted folder of youtube-oauth
+### Download the latest [Release](https://github.com/PureDevLabs/youtube-oauth/releases) of youtube-oauth and unzip it.
+
+### on Windows
+  
+open cmd and navigate to the extracted folder of youtube-oauth
 
 e.g.
 ```bash
 cd C:\Users\Andre\Desktop\youtube-oauth
 ```
+
+
+### on MacOS/Linux
+
+open Terminal and navigate to the extracted folder of youtube-oauth
+
+e.g.
+```bash
+cd /path/to/youtube-oauth
+```
+
+--- 
 
 To install dependencies:
 
