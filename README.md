@@ -20,7 +20,8 @@ curl -fsSL https://bun.sh/install | bash
 
 and excute this command to install Bun. This is only required one time.
 
-***Important: close the Terminal after bun installation.***
+> [!IMPORTANT]  
+> ***close the Terminal after bun installation***
 
 ---
 
