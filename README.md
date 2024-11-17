@@ -3,7 +3,7 @@
 > [!CAUTION]
 > This Project will no longer be supported.
 > 
-> Please dont use it anymore or you lost your YouTube Account.
+> Please dont use it anymore or you lose your YouTube Account.
 
 ## Install Bun on your PC
 
